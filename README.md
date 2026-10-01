@@ -20,16 +20,6 @@ My current focus is on applying analytics to supply chain, demand forecasting, m
 
 ---
 
-## Analytics & Industry Focus
-
-I am particularly interested in questions such as:
-
--How can historical data improve demand forecasting?
--How can businesses identify the factors associated with customer or product demand?
--How can analytics support inventory and supply chain decisions?
--How can machine learning be applied to business problems with imbalanced or complex datasets?
--How can fashion and retail analytics help reduce overproduction and improve resource utilization?
-
 ## Selected Analytics Work
 
 My portfolio includes projects involving:
