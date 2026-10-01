@@ -136,7 +136,7 @@ I am particularly interested in turning complex datasets into practical insights
 
 ## Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/RebekaTohfaa)
+[LinkedIn](https://www.linkedin.com/in/rebeka-islam-tohfa-msba-054530103/?isSelfProfile=true) · [GitHub](https://github.com/RebekaTohfaa)
 
 ---
 
