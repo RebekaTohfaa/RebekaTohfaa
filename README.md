@@ -1,16 +1,28 @@
-## Hi there 👋
+REBEKA ISLAM TOHFA
+Business Analytics | Marketing Analytics | 
+Supply Chain Analyst | 
+Demand Forecasting | Fashion & Retail Analytics
 
-<!--
-**RebekaTohfaa/RebekaTohfaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Profile README]
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ABOUT ME
+
+What I work on
+
+Technical Skills
+
+Supply Chain Analytics
+
+Featured Projects
+
+Research
+
+Current Focus
+
+Connect With Me
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Pinned Projects
