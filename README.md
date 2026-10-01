@@ -12,25 +12,31 @@
 
 ## About Me
 
-Business Analytics professional with a background in the fashion and apparel industry and a focus on applying analytics, machine learning, and data visualization to business and operational problems.
+I am a business analytics professional with a background in the fashion industry and 8+ years of professional experience in fashion and apparel.
 
-My work sits at the intersection of **business, data, fashion, retail, marketing, and supply chain**.
+My work combines industry knowledge with data analytics, statistical modeling, machine learning, and visualization to investigate business problems and develop data-driven solutions.
 
-I am particularly interested in using data to understand demand, improve decision-making, optimize operations, and develop analytical approaches that can support more sustainable fashion and retail systems.
+My current focus is on applying analytics to supply chain, demand forecasting, marketing, retail, and fashion, with particular interest in using data to improve decision-making, reduce inefficiencies, and support more sustainable business practices.
 
 ---
 
-## What I Work On
+## Analytics & Industry Focus
 
-- Business and marketing analytics
-- Supply chain and operational analytics
-- Demand forecasting and inventory intelligence
-- Fashion and retail analytics
-- Machine learning for business applications
-- Classification and imbalanced-dataset modeling
-- Data visualization and business intelligence
-- Process improvement and automation
-- Sustainable fashion and overproduction reduction
+I am particularly interested in questions such as:
+
+-How can historical data improve demand forecasting?
+-How can businesses identify the factors associated with customer or product demand?
+-How can analytics support inventory and supply chain decisions?
+-How can machine learning be applied to business problems with imbalanced or complex datasets?
+-How can fashion and retail analytics help reduce overproduction and improve resource utilization?
+
+## Selected Analytics Work
+
+My portfolio includes projects involving:
+
+Data → Analysis → Statistical Modeling → Machine Learning → Visualization → Business Decision
+
+Projects cover business analytics, marketing analytics, supply chain analysis, demand forecasting, and fashion & retail intelligence.
 
 ---
 
@@ -53,35 +59,7 @@ TensorFlow · Keras
 
 ---
 
-## Featured Projects
-
-### Fashion & Retail Intelligence
-
-**Fashion Retail Intelligence Portfolio**
-
-Exploring fashion product attributes, demand patterns, retail intelligence, and data-driven approaches to understanding which product characteristics are more likely to generate demand.
-
-**Focus:** Fashion Analytics · Demand Intelligence · Retail Analytics · Sustainability
-
----
-
-### Business & Marketing Analytics
-
-Projects applying statistical modeling and machine learning to business and marketing problems, including classification, model evaluation, and imbalanced datasets.
-
-**Focus:** Marketing Analytics · Predictive Modeling · Machine Learning · Business Analytics
-
----
-
-### Supply Chain Analytics
-
-Analytical work focused on forecasting, inventory intelligence, operational performance, and data-driven supply chain decision-making.
-
-**Focus:** Supply Chain · Demand Forecasting · Inventory Analytics · Process Improvement
-
----
-
-## Research
+### Research
 
 ### Imbalanced Dataset Modeling in Business Analytics
 
@@ -115,16 +93,6 @@ Developing analytical approaches to understand demand for fashion product attrib
 - Style characteristics
 
 The broader objective is to explore how predictive analytics can support **better production and inventory decisions while reducing fashion overproduction and waste**.
-
----
-
-## Selected Analytics Work
-
-My portfolio includes work involving:
-
-**Data → Analysis → Modeling → Visualization → Business Decision**
-
-I am particularly interested in turning complex datasets into practical insights that can be understood and used by business teams.
 
 ---
 
